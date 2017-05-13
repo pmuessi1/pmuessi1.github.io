@@ -1,12 +1,26 @@
 ﻿body {
-	font-family: Georgia, serif;
-	height: 100%;
-	margin: 0;
-	text-align: center;
-	width: 100%;
+    font-family: Georgia, serif;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.hero {
+    background-image: url('https://raw.githubusercontent.com/pmuessi1/pmuessi1.github.io/master/SupremeLeader.jpeg');
+    background-position: center top;
+    background-size: cover;
+    padding: 250px 0;
+    margin: 30px;
+    text-shadow: 0 2px #000000;
+    font-family: 'Trebuchet MS', 'Helvetica';
 }
 
 p {
-	color: #ffffff;
-	font-size: 60px;
+    color: #ffffff;
+    font-size: 60px;
 }
