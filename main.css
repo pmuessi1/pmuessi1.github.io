@@ -12,7 +12,7 @@ h1 {
 
 .hero {
     background-image: url('https://raw.githubusercontent.com/pmuessi1/pmuessi1.github.io/master/SupremeLeader.jpeg');
-    background-position: center top;
+    background-position: center;
     background-size: cover;
     padding: 250px 0;
     margin: 30px;
