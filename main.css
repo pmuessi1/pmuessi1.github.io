@@ -1,0 +1,12 @@
+﻿body {
+	font-family: Georgia, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+p {
+	color: #ffffff;
+	font-size: 2em;
+}
